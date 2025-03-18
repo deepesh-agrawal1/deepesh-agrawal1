@@ -3,9 +3,7 @@
 Hi, I’m @deepesh-agrawal1
 I’m interested in Web Devlopment, UI/UX, Cyber Security
 I’m currently learning in engineering Computer Science and Design
-
 I’m looking to collaborate on Projects that will help to improve my Skills and Resume
-
 
 You can reach me through my mail that is adevagrawal@gmail[Dot]com or throug my Linkdin Profile
 
