@@ -1,8 +1,10 @@
+```yaml
+* YOUR TEXT GOES HERE *
 - 👋 Hi, I’m @deepesh-agrawal1
 - 👀 I’m interested in Web Devlopment, UI/UX, Cyber Security
-- - <div align="center">
-  <img src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" width="600" height="300"/>
-</div>
+```
+
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 
