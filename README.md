@@ -9,7 +9,7 @@
 <br>
 
 <a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=850&lines=Building+production-grade+backend+systems;Java+%7C+Spring+Boot+%7C+PostgreSQL+%7C+Microservices;Exploring+Distributed+Systems+%26+SRE;Python+%7C+AI+%7C+Computer+Vision;Turning+complex+problems+into+clean+systems" />
+<img src="https://readme-typing-svg.demolab.com?pfont=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=850&lines=Building+production-grade+backend+systems;Java+%7C+Spring+Boot+%7C+PostgreSQL+%7C+Microservices;Exploring+Distributed+Systems+%26+SRE;Python+%7C+AI+%7C+Computer+Vision;Turning+complex+problems+into+clean+systems" />
 </a>
 
 <br><br>
@@ -219,7 +219,6 @@ Spring Boot       ████████████████████
 Spring MVC        ██████████████████
 REST APIs         ████████████████████
 Microservices     █████████████████
-Django            ███████████████
 FastAPI           ███████████████
 ```
 
@@ -262,119 +261,6 @@ VS Code
 
 ---
 
-# 🚀 Featured Engineering Projects
-
-## 01 — Email Notification & Alerting Microservice
-
-```text
-Java
- └── Spring Boot
-      ├── REST API
-      ├── Async Processing
-      ├── Dynamic Templates
-      ├── SMTP Integration
-      └── Error Handling
-```
-
-**Highlights**
-
-- Asynchronous notification processing
-- Dynamic email templates
-- SMTP integration
-- REST-based architecture
-- Production-oriented error handling
-- Improved delivery performance
-
-**Stack**
-
-`Java` `Spring Boot` `Thymeleaf` `SMTP` `Maven`
-
----
-
-## 02 — AI-Powered Root Cause Analysis Platform
-
-```text
-                     ┌───────────────┐
-                     │ Application   │
-                     │    Logs       │
-                     └───────┬───────┘
-                             │
-                             ▼
-                     ┌───────────────┐
-                     │ Elasticsearch  │
-                     └───────┬───────┘
-                             │
-                             ▼
-                     ┌───────────────┐
-                     │ Anomaly       │
-                     │ Detection     │
-                     └───────┬───────┘
-                             │
-                             ▼
-                     ┌───────────────┐
-                     │ RCA Engine    │
-                     └───────┬───────┘
-                             │
-                             ▼
-                     ┌───────────────┐
-                     │ Grafana       │
-                     │ Dashboard     │
-                     └───────────────┘
-```
-
-**Highlights**
-
-- Automated anomaly detection
-- Log-based troubleshooting
-- Elasticsearch integration
-- Grafana observability
-- Automated RCA generation
-- Microservice-oriented architecture
-
-**Stack**
-
-`Python` `Elasticsearch` `Grafana` `Microservices`
-
----
-
-## 03 — Smart Attendance System
-
-```text
-Camera
-  │
-  ▼
-Frame Capture
-  │
-  ▼
-Face Detection
-  │
-  ▼
-Face Recognition
-  │
-  ▼
-Identity Matching
-  │
-  ▼
-Attendance Engine
-  │
-  ▼
-Database
-```
-
-**Highlights**
-
-- Real-time face recognition
-- CCTV/IP camera integration
-- Automated attendance logging
-- Computer vision pipeline
-- Database-backed attendance management
-
-**Stack**
-
-`Python` `OpenCV` `CNN` `Machine Learning` `MySQL`
-
----
-
 # 🏆 Recognition
 
 <div align="center">
@@ -387,7 +273,7 @@ Won a competitive software hackathon and secured an SDE internship opportunity.
 
 ### 🏅 Smart India Hackathon
 
-Selected at institute level with project development sponsorship.
+Selected at institute level with project development sponsorship offer.
 
 </div>
 
@@ -408,26 +294,6 @@ Selected at institute level with project development sponsorship.
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=deepesh-agrawall&theme=tokyonight&hide_border=true" width="75%"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepesh-agrawall&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/deepesh-agrawall/deepesh-agrawall/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
