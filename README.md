@@ -335,7 +335,7 @@ public class Engineer {
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 <br><br>
-
+ ### ps note : The commit history is not real it just shows my GitHub skills that i know github
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:020617,50:111827,100:0f172a&section=footer"/>
 
 </div>
