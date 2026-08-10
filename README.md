@@ -158,42 +158,6 @@ Backend Engineering
 | Production Engineering | **SRE + Observability** |
 
 ---
-
-# 🏗️ Tech Architecture
-
-```text
-                         ┌─────────────────────┐
-                         │      CLIENTS        │
-                         │ Web / API / Mobile  │
-                         └──────────┬──────────┘
-                                    │
-                                    ▼
-                         ┌─────────────────────┐
-                         │     REST APIs       │
-                         │   Spring Boot       │
-                         └──────────┬──────────┘
-                                    │
-                    ┌───────────────┼───────────────┐
-                    ▼               ▼               ▼
-             ┌────────────┐ ┌────────────┐ ┌────────────┐
-             │  Business  │ │ Integration│ │  Security  │
-             │   Layer    │ │   Layer    │ │   Layer    │
-             └─────┬──────┘ └─────┬──────┘ └────────────┘
-                   │              │
-                   ▼              ▼
-             ┌────────────┐ ┌────────────┐
-             │ PostgreSQL │ │ Third Party│
-             │            │ │   APIs     │
-             └────────────┘ └────────────┘
-                   │
-                   ▼
-          ┌─────────────────────┐
-          │ Observability Layer │
-          │ Grafana / Logging   │
-          │ Metrics / Alerts    │
-          └─────────────────────┘
-```
-
 ---
 
 # 🛠️ Technology Matrix
@@ -279,25 +243,6 @@ Selected at institute level with project development sponsorship offer.
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=deepesh-agrawall&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepesh-agrawall&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=deepesh-agrawall&theme=tokyonight&hide_border=true" width="75%"/>
-
-</div>
-
----
 
 # 📚 Engineering Interests
 
