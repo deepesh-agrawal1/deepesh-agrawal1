@@ -12,7 +12,6 @@ You can reach me through my mail that is adevagrawal@gmail[Dot]com or throug my 
 
 Pronouns: He/Him
 
-Fun fact: i am a lazy coder according to my last team i worked with
 ```
 
 
