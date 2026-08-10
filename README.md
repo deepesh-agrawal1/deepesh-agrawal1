@@ -1,48 +1,530 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     DEEPESH AGRAWAL                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:111827,100:020617&text=DEEPESH%20AGRAWAL&fontColor=00E5FF&fontSize=48&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20AI&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
-```yaml
+<br>
 
-Hi, I’m @deepesh-agrawal1
-I’m interested in Web Devlopment, UI/UX, Cyber Security
-I’m currently learning in engineering Computer Science and Design
-I’m looking to collaborate on Projects that will help to improve my Skills and Resume
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=850&lines=Building+production-grade+backend+systems;Java+%7C+Spring+Boot+%7C+PostgreSQL+%7C+Microservices;Exploring+Distributed+Systems+%26+SRE;Python+%7C+AI+%7C+Computer+Vision;Turning+complex+problems+into+clean+systems" />
+</a>
 
-You can reach me through my mail that is adevagrawal@gmail[Dot]com or throug my Linkdin Profile
+<br><br>
 
-Pronouns: He/Him
+<a href="mailto:adevagrawal@gmail.com">
+<img src="https://img.shields.io/badge/Email-adevagrawal%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/devagrawal002/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/deepesh-agrawall">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=deepesh-agrawall&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS"/>
+
+</div>
+
+---
+
+# `$ whoami`
+
+```text
+Deepesh Agrawal
+├── Software Engineer
+├── Backend Developer
+├── Java / Spring Boot
+├── Python / AI
+├── Microservices
+├── SRE & Observability
+└── Computer Science & Design
 ```
 
+> I build backend systems that are **scalable, observable, testable, and maintainable**.
+>
+> My primary focus is **Java + Spring Boot + PostgreSQL**, with additional experience in
+> **Python, AI/Computer Vision, REST APIs, microservices, CI/CD, and observability**.
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+---
+
+# ⚡ Engineering Snapshot
+
+<div align="center">
+
+| 🧩 Backend | 🗄️ Data | ⚙️ DevOps | 🤖 AI |
+|:---:|:---:|:---:|:---:|
+| Java | PostgreSQL | Docker | Python |
+| Spring Boot | MySQL | Jenkins | OpenCV |
+| REST APIs | Elasticsearch | Ansible | Deep Learning |
+| Microservices | SQL | GitHub Actions | Computer Vision |
+| Spring MVC | Database Design | GCP | Face Recognition |
+
+</div>
+
+---
+
+# 🧠 About Me
+
+```yaml
+name: Deepesh Agrawal
+
+education:
+  degree: B.Tech
+  specialization: Computer Science and Design
+  institute: Maharashtra Institute of Technology
+  duration: 2022 - 2026
+
+primary_stack:
+  language: Java
+  framework: Spring Boot
+  database: PostgreSQL
+
+engineering_interests:
+  - Backend Engineering
+  - Distributed Systems
+  - Microservices
+  - System Design
+  - SRE
+  - Observability
+  - Cloud Engineering
+  - Artificial Intelligence
+
+currently_learning:
+  - Advanced Spring Boot
+  - Distributed Systems
+  - System Design
+  - Cloud Architecture
+  - Production Observability
+
+engineering_principles:
+  - Clean Code
+  - Test Driven Development
+  - SOLID
+  - API First Design
+  - Observability First
+  - Automation
+```
+
+---
+
+# 💼 Engineering Experience
+
+### Software Development Engineering Intern
+**Jan 2026 — Jul 2026**
+
+```text
+Backend Engineering
+│
+├── Java + Spring Boot
+│   ├── RESTful API development
+│   ├── Service-layer architecture
+│   ├── Third-party integrations
+│   └── Production API development
+│
+├── Database Engineering
+│   ├── PostgreSQL
+│   ├── Query optimization
+│   ├── Schema design
+│   └── High-throughput data access
+│
+├── Quality Engineering
+│   ├── JUnit
+│   ├── API testing
+│   ├── 90%+ unit test coverage
+│   └── Agile development
+│
+└── SRE / Observability
+    ├── Grafana dashboards
+    ├── Log correlation
+    ├── Caching
+    └── Incident observability
+```
+
+### Engineering Impact
+
+| Area | Result |
+|---|---:|
+| REST API Development | **10+ endpoints** |
+| Unit Test Coverage | **90%+** |
+| Downstream Latency | **15% reduction** |
+| Incident Detection | **20% improvement** |
+| Production Engineering | **SRE + Observability** |
+
+---
+
+# 🏗️ Tech Architecture
+
+```text
+                         ┌─────────────────────┐
+                         │      CLIENTS        │
+                         │ Web / API / Mobile  │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │     REST APIs       │
+                         │   Spring Boot       │
+                         └──────────┬──────────┘
+                                    │
+                    ┌───────────────┼───────────────┐
+                    ▼               ▼               ▼
+             ┌────────────┐ ┌────────────┐ ┌────────────┐
+             │  Business  │ │ Integration│ │  Security  │
+             │   Layer    │ │   Layer    │ │   Layer    │
+             └─────┬──────┘ └─────┬──────┘ └────────────┘
+                   │              │
+                   ▼              ▼
+             ┌────────────┐ ┌────────────┐
+             │ PostgreSQL │ │ Third Party│
+             │            │ │   APIs     │
+             └────────────┘ └────────────┘
+                   │
+                   ▼
+          ┌─────────────────────┐
+          │ Observability Layer │
+          │ Grafana / Logging   │
+          │ Metrics / Alerts    │
+          └─────────────────────┘
+```
+
+---
+
+# 🛠️ Technology Matrix
+
+### Languages
+
 <p align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" width="45" height="45" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"  width="45" height="45"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45"/>         
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"  width="45" height="45"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"  width="45" height="45"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg"  width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-line.svg"  width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"  width="45" height="45"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-plain.svg"  width="45" height="45"/>
- 
-          
-          
-          
-          
-          
-          
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,c,cpp" />
+
 </p>
 
+### Backend & Frameworks
 
+<p align="left">
 
-<!---
-deepesh-agrawal1/deepesh-agrawal1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://skillicons.dev/icons?i=spring,django,fastapi" />
+
+</p>
+
+```text
+Spring Boot       ████████████████████
+Spring MVC        ██████████████████
+REST APIs         ████████████████████
+Microservices     █████████████████
+Django            ███████████████
+FastAPI           ███████████████
+```
+
+### Databases
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,elasticsearch" />
+
+</p>
+
+### DevOps / Cloud / Engineering
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,ansible,gcp,linux" />
+
+</p>
+
+### Observability
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=grafana" />
+
+</p>
+
+```text
+Git
+GitHub
+Docker
+Jenkins
+Ansible
+Google Cloud
+Grafana
+Postman
+IntelliJ IDEA
+VS Code
+```
+
+---
+
+# 🚀 Featured Engineering Projects
+
+## 01 — Email Notification & Alerting Microservice
+
+```text
+Java
+ └── Spring Boot
+      ├── REST API
+      ├── Async Processing
+      ├── Dynamic Templates
+      ├── SMTP Integration
+      └── Error Handling
+```
+
+**Highlights**
+
+- Asynchronous notification processing
+- Dynamic email templates
+- SMTP integration
+- REST-based architecture
+- Production-oriented error handling
+- Improved delivery performance
+
+**Stack**
+
+`Java` `Spring Boot` `Thymeleaf` `SMTP` `Maven`
+
+---
+
+## 02 — AI-Powered Root Cause Analysis Platform
+
+```text
+                     ┌───────────────┐
+                     │ Application   │
+                     │    Logs       │
+                     └───────┬───────┘
+                             │
+                             ▼
+                     ┌───────────────┐
+                     │ Elasticsearch  │
+                     └───────┬───────┘
+                             │
+                             ▼
+                     ┌───────────────┐
+                     │ Anomaly       │
+                     │ Detection     │
+                     └───────┬───────┘
+                             │
+                             ▼
+                     ┌───────────────┐
+                     │ RCA Engine    │
+                     └───────┬───────┘
+                             │
+                             ▼
+                     ┌───────────────┐
+                     │ Grafana       │
+                     │ Dashboard     │
+                     └───────────────┘
+```
+
+**Highlights**
+
+- Automated anomaly detection
+- Log-based troubleshooting
+- Elasticsearch integration
+- Grafana observability
+- Automated RCA generation
+- Microservice-oriented architecture
+
+**Stack**
+
+`Python` `Elasticsearch` `Grafana` `Microservices`
+
+---
+
+## 03 — Smart Attendance System
+
+```text
+Camera
+  │
+  ▼
+Frame Capture
+  │
+  ▼
+Face Detection
+  │
+  ▼
+Face Recognition
+  │
+  ▼
+Identity Matching
+  │
+  ▼
+Attendance Engine
+  │
+  ▼
+Database
+```
+
+**Highlights**
+
+- Real-time face recognition
+- CCTV/IP camera integration
+- Automated attendance logging
+- Computer vision pipeline
+- Database-backed attendance management
+
+**Stack**
+
+`Python` `OpenCV` `CNN` `Machine Learning` `MySQL`
+
+---
+
+# 🏆 Recognition
+
+<div align="center">
+
+### 🥇 Hackathon Winner
+
+Won a competitive software hackathon and secured an SDE internship opportunity.
+
+<br>
+
+### 🏅 Smart India Hackathon
+
+Selected at institute level with project development sponsorship.
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=deepesh-agrawall&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepesh-agrawall&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=deepesh-agrawall&theme=tokyonight&hide_border=true" width="75%"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepesh-agrawall&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/deepesh-agrawall/deepesh-agrawall/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+# 📚 Engineering Interests
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  Backend Engineering        ████████████████████████       │
+│  Java / Spring Boot         ████████████████████████       │
+│  System Design              █████████████████████          │
+│  Microservices              █████████████████████          │
+│  PostgreSQL                 ████████████████████           │
+│  SRE / Observability        ███████████████████            │
+│  Cloud Engineering          █████████████████              │
+│  Python / AI                █████████████████              │
+│  Computer Vision            ███████████████                │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🧩 Problem-Solving Mindset
+
+```java
+public class Engineer {
+
+    private final String mindset = "Build → Measure → Improve";
+
+    public System designProblem(Problem problem) {
+
+        Requirements requirements = understand(problem);
+
+        Architecture architecture =
+                designFor(
+                    requirements,
+                    "scalability",
+                    "reliability",
+                    "observability"
+                );
+
+        System system = implement(
+                architecture,
+                "clean-code",
+                "testability",
+                "maintainability"
+        );
+
+        monitor(system);
+        optimize(system);
+
+        return system;
+    }
+}
+```
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+### Open to opportunities in
+
+`Software Engineering` · `Backend Engineering` · `Java` · `Spring Boot` · `SDET` · `Systems Engineering`
+
+<br>
+
+<a href="mailto:adevagrawal@gmail.com">
+<img src="https://img.shields.io/badge/Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/devagrawal002/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/deepesh-agrawall">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### `const philosophy = "Make it work. Make it right. Make it scalable.";`
+
+<br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:020617,50:111827,100:0f172a&section=footer"/>
+
+</div>
